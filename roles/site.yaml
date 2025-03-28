@@ -1,5 +1,0 @@
----
-- hosts: vbox
-  become: yes
-  roles:
-    - nginx
